@@ -1,0 +1,13 @@
+{
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+
+    // Loaded Stubs:  esp32-micropython-1.12.0 
+    "python.autoComplete.extraPaths": [".micropy/BradenM-micropy-stubs-9569403/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-9569403/stubs", ".micropy/helloOled"],
+    "python.autoComplete.typeshedPaths":  [".micropy/BradenM-micropy-stubs-9569403/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-9569403/stubs", ".micropy/helloOled"],
+    "python.analysis.typeshedPaths":  [".micropy/BradenM-micropy-stubs-9569403/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-9569403/stubs", ".micropy/helloOled"],
+
+    "python.linting.pylintEnabled": true,
+    "python.languageServer": "Microsoft",
+    "python.pythonPath": "/Users/pfonseca/.pyenv/versions/microenv367/bin/python"
+}
